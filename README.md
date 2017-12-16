@@ -1,5 +1,5 @@
 # automata
-Configuration Management System designed in the context of how the word "automata" is defined.
+Configuration Management System designed in the context of how the word "automaton" is defined.
 
 # Design Goals for me
 * Linux only (but it _should_ work on BSD since this is haskell after all)
